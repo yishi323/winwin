@@ -1,0 +1,49 @@
+html{
+    font-size: 100%;
+    background-color: #F0F0F0;
+    font-weight: bold;
+}
+
+.group{
+    background-color: white;
+    margin-bottom: 10px;
+}
+
+.title{
+    text-align: left;
+    margin-left: 10px;
+    font-size: 120%;
+}
+
+.author{
+    text-align: left;
+    margin-left: 10px; 
+    font-size: 90%;
+}
+
+.content{
+    text-align: left;
+    margin-left: 10px; 
+    font-size: 90%;
+}
+
+.left_div{
+    width: 55%;
+    float:left;
+}
+
+.right_div{
+    width: 40%;
+    float:right;
+}
+
+.tag{
+    font-size: 50%;
+    margin-left: 3px;
+    border-radius: 10%;
+    color: white;
+}
+
+#date{
+    color: #D0D0D0;
+}
